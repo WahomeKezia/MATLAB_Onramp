@@ -13,8 +13,6 @@ I will use Matlab to find the observed wavelenght of hydrogen alpha line of  **H
 
 To do this we wiil be inspecting the spectrum of **HD94028** 
 
-![image](https://github.com/WahomeKezia/Stellar-Motion_MATLAB_Onramp/assets/90443938/92f8156e-1b8f-474d-b191-87068bb771fb)
-
 ![image](https://github.com/WahomeKezia/Stellar-Motion_MATLAB_Onramp/assets/90443938/a827647d-6976-4e48-80b0-7e41b6629794)
 
 
