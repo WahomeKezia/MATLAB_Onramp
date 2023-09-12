@@ -1,0 +1,30 @@
+The star spectrum data in the spectra matrix was collected at evenly spaced wavelengths (λ), and you are given the starting wavelength (λstart), the spacing (λdelta  ), and the number of observations
+
+
+TASK ONE:
+Create a variable named lambdaEnd (λend) that contains the value of the last wavelength in the recorded spectrum. You can calculate lambdaEnd with the expression
+
+λstart + (nObs−1)λdelta
+
+Use lambdaEnd to create a vector named lambda (λ) that contains the wavelengths in the spectrum, from λstart to λend
+, in steps of λdelta
+
+Each column of spectra is the spectrum of a different star. The sixth column is the spectrum of star HD 94028.
+
+TASK TWO
+Extract the sixth column of spectra to a vector named s.
+
+THREE 
+TASK
+Plot the spectra (s) as a function of wavelength (lambda). Use point markers (.) and a solid line (-) to connect the points.
+
+Add the x-label "Wavelength" and the y-label "Intensity" to the plot.
+
+The min function allows two outputs, the second of which is the index for the minimum value. This index corresponds to the location of the hydrogen-alpha line (λHa).
+
+TASK
+Create two variables, sHa and idx, that contain the minimum value of s and the index of that minimum value.
+
+Find the wavelength of the hydrogen-alpha line by using idx to index into lambda. Store the result as lambdaHa (λ
+Ha
+).
