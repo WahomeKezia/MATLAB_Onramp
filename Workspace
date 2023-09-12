@@ -25,6 +25,15 @@ The min function allows two outputs, the second of which is the index for the mi
 TASK
 Create two variables, sHa and idx, that contain the minimum value of s and the index of that minimum value.
 
-Find the wavelength of the hydrogen-alpha line by using idx to index into lambda. Store the result as lambdaHa (λ
+Find the wavelength of the hydrogen-alpha line by using idx to index into lambda. Store the result as lambdaHa (λHa).
+
+The point (lambdaHa,sHa) is the location of the hydrogen-alpha line.
+TASK
+Add a point to the existing axes by plotting x = lambdaHa, y = sHa as a red square ("rs") with a marker size ("MarkerSize") of 8.
+
+
+If you zoom in on the plot, you can see that the wavelength of the hydrogen-alpha line of HD 94028 is 656.62 nm, which is slightly longer than the laboratory value of 656.28 nm.
+
+Using the hydrogen-alpha wavelength of the star, you can calculate the redshift factor (the speed of the star relative to Earth) using the formula z=(λ
 Ha
-).
+/656.28)−1. You can then calculate the speed by multiplying the redshift factor (z) by the speed of light (299792.458 km/s).
