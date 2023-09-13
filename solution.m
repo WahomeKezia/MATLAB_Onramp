@@ -1,6 +1,5 @@
 % In the previous project, you calculated the speed (in km/s) of a star relative to Earth by using its spectrum. In this project, you will calculate all the stars' speeds at once. Then you'll create this plot of the star spectra.
 
-
 %This code loads the data and defines measurement parameters.
 load starData
 nObs = size(spectra,1)
@@ -34,6 +33,4 @@ z = lambdaHa/656.28 - 1
 speed = z*299792.458
 
 % Having the script , you can easily change the the value of s to get the results of a different star 
-
-
 
