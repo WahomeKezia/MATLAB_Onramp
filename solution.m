@@ -34,3 +34,6 @@ z = lambdaHa/656.28 - 1
 speed = z*299792.458
 
 % Having the script , you can easily change the the value of s to get the results of a different star 
+
+
+
