@@ -7,7 +7,6 @@ The left side (x) is the variable name, and the right side (pi) is its value.
 	
 y = sin(-5) ,	Provide inputs to a function using parentheses.
  
-
 Desktop Management	
 Save -- usage: save data.mat	Save your current workspace to a MAT-file.
 Load--load data.mat:Load the variables in a MAT-file to the workspace.
@@ -15,7 +14,6 @@ Clear-- clear: this clears all variables from the workspace.
 Clc --clc:Clear all text from the Command Window.
 Format--format long	 : this will change how numeric output appears in the Command Window.
  
-
 Array Types
 4	  scalar
 [3 5]	row vector
