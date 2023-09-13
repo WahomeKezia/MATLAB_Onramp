@@ -14,8 +14,7 @@ Each column of spectra is the spectrum of a different star. The sixth column is 
 TASK TWO
 Extract the sixth column of spectra to a vector named s.
 
-THREE 
-TASK
+THREE TASK
 Plot the spectra (s) as a function of wavelength (lambda). Use point markers (.) and a solid line (-) to connect the points.
 
 Add the x-label "Wavelength" and the y-label "Intensity" to the plot.
