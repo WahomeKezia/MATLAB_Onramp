@@ -6,7 +6,7 @@ You can learn a lot about a star even though it may be 1000 light years away by 
 Measuring the intensity of light observed at each wavelenght gives the stars a **characteristic spectrum**.
 
 In this project, I will work on a practice activity from Matlab Onramp course.
-I will use Matlab to find the observed wavelenght of hydrogen alpha line of  **HD94028** , a faint star in the constellation of Leo ,and to compare it to the know wavelength of hydrogen absorption to determine how fast the star is moving away from Earth. 
+I will use Matlab to find the observed wavelengh of hydrogen alpha line of  **HD94028** , a faint star in the constellation of Leo ,and to compare it to the know wavelength of hydrogen absorption to determine how fast the star is moving away from Earth. 
 
 
 ![Leo](https://github.com/WahomeKezia/Stellar-Motion_MATLAB_Onramp/assets/90443938/c3d4d536-c743-4842-b61b-34804c17ddee) 
